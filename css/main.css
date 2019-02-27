@@ -337,6 +337,7 @@ input{
 	font-size: 27px;
 }
 .footer-text{
+	padding-left: 5%;
 	margin-left: 200px;
 	color: #ffffff;
 	font-family: 'Montserrat', sans-serif;
